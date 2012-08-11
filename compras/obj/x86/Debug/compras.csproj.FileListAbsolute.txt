@@ -1,0 +1,9 @@
+F:\compras\compras\bin\Debug\compras.exe
+F:\compras\compras\bin\Debug\compras.pdb
+F:\compras\compras\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\compras\compras\obj\x86\Debug\compras.Form1.resources
+F:\compras\compras\obj\x86\Debug\compras.Properties.Resources.resources
+F:\compras\compras\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\compras\compras\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\compras\compras\obj\x86\Debug\compras.exe
+F:\compras\compras\obj\x86\Debug\compras.pdb
